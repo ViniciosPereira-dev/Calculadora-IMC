@@ -32,6 +32,6 @@ Projeto simples e funcional que realiza o cálculo do Índice de Massa Corporal 
 
 Adicione uma imagem aqui se quiser:
 
-```html
 <img src="./Assets/imagens/banner" alt="Imagem ilustrativa do projeto" width="400"/>
+
 
