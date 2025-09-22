@@ -7,7 +7,7 @@ Projeto simples e funcional que realiza o cálculo do Índice de Massa Corporal 
 
 ## 🚀 Acesse o projeto online
 
-🔗 [Clique aqui para visualizar](https://viniciospereira-dev.github.io/Calculadora-IMC/)
+🔗 [Clique aqui para visualizar](https://viniciospereira-dev.github.io/Projeto-Calculadora-IMC/)
 
 ---
 
@@ -32,6 +32,7 @@ Projeto simples e funcional que realiza o cálculo do Índice de Massa Corporal 
 
 
 <img src="./Assets/imagens/banner.png" alt="Imagem ilustrativa do projeto" width="400"/>
+
 
 
 
