@@ -30,8 +30,8 @@ Projeto simples e funcional que realiza o cálculo do Índice de Massa Corporal 
 
 ## 📸 Screenshot
 
-Adicione uma imagem aqui se quiser:
 
 <img src="./Assets/imagens/banner.png" alt="Imagem ilustrativa do projeto" width="400"/>
+
 
 
